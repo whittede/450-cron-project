@@ -1,0 +1,10 @@
+.cache/dconf
+.dbus/session-bus
+.bash_history
+.bash_logout
+.bash_profile
+.bashrc
+.cshrc
+.gitconfig
+.tcshrc
+.viminfo
